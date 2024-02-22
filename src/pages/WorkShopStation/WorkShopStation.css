@@ -1,0 +1,76 @@
+.country {
+    fill: #c0c0c0;
+    stroke: #000000;
+    stroke-width: 1;
+    cursor: pointer;
+}
+
+.country-circle {
+    fill: #ffffff;
+    stroke: #000000;
+    stroke-width: 1;
+    cursor: pointer;
+}
+
+.country-number {
+    fill: #000000;
+    font-family: Arial, sans-serif;
+    font-size: 10px;
+}
+
+.map-container{
+    margin: 3.9rem;
+    border: 2px #5c5757 solid;
+}
+
+.argentina {
+    fill: #75aadb;
+}
+
+.chile {
+    fill: #e63946;
+}
+
+.uruguay {
+    fill: #f4d35e;
+}
+
+.paraguay {
+    fill: #a8dadc;
+}
+
+.bolivia {
+    fill: #90be6d;
+}
+
+.brazil {
+    fill: #f9c74f;
+}
+
+.colombia {
+    fill: #f94144;
+}
+
+.ecuador {
+    fill: #577590;
+}
+
+.peru {
+    fill: #a3de83;
+}
+
+.venezuela {
+    fill: #f3722c;
+}
+
+.guyana {
+    fill: #f8961e;
+}
+
+.suriname {
+    fill: #43aa8b;
+}
+
+.french-guiana {
+    fill: #f94144;
+}
